@@ -1,0 +1,15 @@
+.main-bdy{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+.top_mid-dv, .btm_mid-dv{
+    display: flex;
+}
+

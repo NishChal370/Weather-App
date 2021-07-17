@@ -1,0 +1,41 @@
+.body-div{
+    margin-left: 2%;
+}
+
+.top_mid-dv img{
+    margin-top: 4px;
+    height: 5%;
+    width: 10%;
+}
+
+.btm_mid-dv1{
+    display  : flex;
+    margin-left: 4%;
+    padding-top: 2%;
+    font-size: 120%;
+    border-radius: 10px;
+    
+}
+.top_mid-dv{
+    margin-bottom: -60px;
+}
+#top_mid-dv1{
+    margin-left: 2%;
+    margin-top: -0.05%;
+    font-size: 90px;
+}
+#top_mid-dv2 {
+    margin-left: 2%;
+    margin-bottom  : -4px;
+    font-size: 120%;
+}
+.bottom-div{
+    display  : flex;
+}
+
+.bottom-div p {
+    font-size: 138%;
+    margin-left: 1%;
+    padding: 3% 2% 3% 2%;
+    background-color:rgba(0, 0, 0, 0.329);
+}
