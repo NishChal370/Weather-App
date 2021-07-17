@@ -14,6 +14,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+### `Project Image`
+![weather-app-api](https://user-images.githubusercontent.com/73095396/126032304-6a76f2b7-2fc1-4289-9ed0-9683294639d1.JPG)
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
